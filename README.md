@@ -1,7 +1,5 @@
 # Stock Price Prediction Project using Data Science
 
-![Stock Price Prediction](/images/stock_prediction_banner.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
